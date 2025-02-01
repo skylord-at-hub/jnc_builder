@@ -3,9 +3,10 @@
 
 **How to use this?**
 <br>
-Download this to your local mods file
-**Once its in your mods file please add "skywars_building" to your `secure.http_mods`**
-Then join the game on a singleplayer (or multiplayer) game and follow the instructions before you start to build.
+Download this to your local mods file <br>
+**Once its in your mods file please add "skywars_building" to your `secure.http_mods`** <br>
+Then join the game on a singleplayer (or multiplayer) game and follow the instructions before you start to build. <br>
+**You can install any other inventory. But you cant use any mods which include other nodes/blocks.** <br>
 
 **NOTE: `secure.http_mods` ARE REQUIRED!**
 
