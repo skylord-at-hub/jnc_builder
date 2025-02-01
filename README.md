@@ -1,7 +1,7 @@
-<h1>**Jisk and Cows Builders game**</h1>
-A map maker mod for **Jisk and Cows FFA skywars**
+<h1>Jisk and Cows Builders game</h1>
+**A map maker mod for **Jisk and Cows FFA skywars**
 
-<h3>**How to use this?**</h3>
+<h2>How to use this?</h2>
 Download this to your local mods file
 Once its in your mods file please add "skywars_building" to your `secure.http_mods`
 Then join the game on a singleplayer (or multiplayer) game and follow the instructions before you start to build.
@@ -19,10 +19,10 @@ Or use this guide
 <p>DONT BUILD UNDER Y = 0. ONLY VOID</p>
 <p>You cant build past the borders but don't break the glass please.</p>
 
-<p>How to scatter chests</p>
-<p>The loot on the main island for iron and mese chest should be in the ratio 3:1 (iron:mese).</p>
-<p>The loot on the outside island for iron and mese chests should be in the ratio 1:3 (iron:mese).</p>
-<p>If you don't understand then we can place the chest for you when we are reviewing the map.</p>
+<h4>How to scatter chests</h4>
+The loot on the main island for iron and mese chest should be in the ratio 3:1 (iron:mese).
+The loot on the outside island for iron and mese chests should be in the ratio 1:3 (iron:mese).
+If you don't understand then we can place the chest for you when we are reviewing the map.
 
 What we expect?
 We expect a main PVP island for players to PVP on
